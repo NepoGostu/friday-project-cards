@@ -7,7 +7,7 @@
 
 #### Ссылка на проект: https://nepogostu.github.io/friday-project-cards/
 
-Для авторизации используй готового пользователя:
+Для авторизации используй готового пользователя:  
 login: nya-admin@nya.nya  
 password:1qazxcvBG
 
